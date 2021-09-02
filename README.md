@@ -6,3 +6,4 @@ The course serves as an introduction to modern web application development with 
 GraphQL,TypeScript, testing, configuration and environment management, and the use of MongoDB for storing the application’s data are also covered in the course. This repository contains my solutions for the course exercises. 
 
 ### [Part 0 - Fundamentals of Web apps](/part0)
+### [Part 1 - Introduction to React](/part1)
